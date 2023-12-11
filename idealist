@@ -1,12 +1,12 @@
-{
-  "array": [
+[
     {
       "img": "http://img.youtube.com/vi/ZRDMuDOK_AA/mqdefault.jpg",
-      "video": "https://youtu.be/ZRDMuDOK_AA"
+      "video": "https://youtu.be/ZRDMuDOK_AA",
+      "description": "マイクラ"
     },
     {
       "img": "http://img.youtube.com/vi/hIXgim9oUfU/mqdefault.jpg",
-      "video": "https://youtu.be/hIXgim9oUfU"
+      "video": "https://youtu.be/hIXgim9oUfU",
+      "description": "セットリスト"
     }
-  ]
-}
+]
