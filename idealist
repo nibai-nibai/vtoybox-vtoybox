@@ -2,16 +2,16 @@
     {
       "img": "http://img.youtube.com/vi/HjZS4jMm378/hqdefault.jpg",
       "video": "https://youtu.be/HjZS4jMm378",
-      "description": "配信の内容をタイトルで可愛く表示する方法\r\n 所要時間:約3分"
+      "description": "配信の内容をタイトルで可愛く表示する方法\r\n <size=80%>所要時間:約3分</size>"
     },
     {
       "img": "http://img.youtube.com/vi/fzMZ8o-oI1k/hqdefault.jpg",
       "video": "https://youtu.be/fzMZ8o-oI1k",
-      "description": "ハッシュタグやSNSIDをおしゃれに表示する方法\r\n 所要時間:約2分"
+      "description": "ハッシュタグやSNSIDをおしゃれに表示する方法\r\n <size=80%>所要時間:約2分</size>"
     },
     {
       "img": "http://img.youtube.com/vi/cMYq9KJFulY/hqdefault.jpg",
       "video": "https://youtu.be/cMYq9KJFulY",
-      "description": "配信でセットリストを使ってみよう\r\n <size: 80%>所要時間:約5分</size>"
+      "description": "配信でセットリストを使ってみよう\r\n <size=80%>所要時間:約5分</size>"
     }
 ]
