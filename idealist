@@ -2,11 +2,16 @@
     {
       "img": "http://img.youtube.com/vi/HjZS4jMm378/hqdefault.jpg",
       "video": "https://youtu.be/HjZS4jMm378",
-      "description": "『配信の内容をタイトルで可愛く表示する方法』\r\n 所要時間約3分"
+      "description": "『配信の内容をタイトルで可愛く表示する方法』\r\n 所要時間:約3分"
     },
     {
-      "img": "http://img.youtube.com/vi/hIXgim9oUfU/hqdefault.jpg",
-      "video": "https://youtu.be/hIXgim9oUfU",
-      "description": "セットリスト"
+      "img": "http://img.youtube.com/vi/fzMZ8o-oI1k/hqdefault.jpg",
+      "video": "https://youtu.be/fzMZ8o-oI1k",
+      "description": "『ハッシュタグやSNSIDをお洒落に表示する方法』\r\n 所要時間:約2分"
+    },
+    {
+      "img": "http://img.youtube.com/vi/cMYq9KJFulY/hqdefault.jpg",
+      "video": "https://youtu.be/cMYq9KJFulY",
+      "description": "『歌枠でセットリストを使ってみよう』\r\n 所要時間:約5分"
     }
 ]
