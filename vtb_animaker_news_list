@@ -17,6 +17,12 @@
       "ImageURL": "http://img.youtube.com/vi/qfS2xGyjN5I/hqdefault.jpg",
       "Text": "新しいチュートリアルが追加されました。\n難易度:Lv.3\n目的:テンプレートを使わずにアニメーションを作る",
       "DetailURL": "https://niimanager2.wixsite.com/vtoybox/animaker/howtouse"
+    },
+    {
+      "ID": 4,
+      "ImageURL": "http://img.youtube.com/vi/CNvBff7cnfo/hqdefault.jpg",
+      "Text": "新しいチュートリアルが追加されました。\n難易度:Lv.4\n目的:カスタムアニメーションを作る!",
+      "DetailURL": "https://niimanager2.wixsite.com/vtoybox/animaker/howtouse"
     }
   ]
 }
