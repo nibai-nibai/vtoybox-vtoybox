@@ -23,6 +23,12 @@
       "ImageURL": "http://img.youtube.com/vi/CNvBff7cnfo/hqdefault.jpg",
       "Text": "新しいチュートリアルが追加されました。\n難易度:Lv.4\n目的:カスタムアニメーションを作る!",
       "DetailURL": "https://niimanager2.wixsite.com/vtoybox/animaker/howtouse"
+    },
+    {
+      "ID": 5,
+      "ImageURL": "https://pixiv.pximg.net/c/936x600_90_a2_g5/fanbox/public/images/plan/420717/cover/IBIaeBVDvppx21I6lNn2roj7.jpeg",
+      "Text": "VToyBoxAnimakerがアップデートされました！\n詳細ページからアップデートしてください。",
+      "DetailURL": "https://vtoybox.fanbox.cc/posts/7982564"
     }
   ]
 }
